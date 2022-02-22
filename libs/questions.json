@@ -1,0 +1,23 @@
+{
+  "menuOptions":[
+    {
+      "type": "list",
+      "name": "opt",
+      "message": "What would you like to do?",
+      "choices": [
+        {
+          "value": "1",
+          "name": "1. Search for a city"
+        },
+        {
+          "value": "2",
+          "name": "2. History"
+        },
+        {
+          "value": "0",
+          "name": "3. Exit"
+        }
+      ]
+    }
+  ]
+}
